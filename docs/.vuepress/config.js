@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/',
+  base: '/note/',
   port: '9988',
   title: 'Hello 最光阴',
   description: '只是玩玩而已',
